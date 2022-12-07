@@ -2,16 +2,26 @@ body{
     background-color: rgb(177, 120, 14);
 }
 
-h1 { 
+.title{
     background-color: rgb(36, 238, 127);
     height: 70px;
     margin: 0 auto;
     text-align: center;
 }
 
-h2 { 
-    background-color: rgb(36, 238, 127);
-    height: 70px;
-    margin: 0 auto;
-    text-align: center;
+p {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: "굴림";
+}
+
+.v{
+    background-color: rgb(127, 55, 185);
+    text-align: left;
+}
+
+.p{
+    background-color: rgb(0, 4, 255);
+    text-align: left;
 }
